@@ -40,17 +40,11 @@
 
 ## Screenshots
 
-### Homepage
-
-![Homepage](docs/screenshots/homepage.png)
-
-### Dashboard
-
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Public Booking Page
-
-![Booking Page](docs/screenshots/booking-page.png)
+<p align="center">
+  <img src="docs/screenshots/homepage.png" width="30%" />
+  <img src="docs/screenshots/dashboard.png" width="30%" />
+  <img src="docs/screenshots/booking-page.png" width="30%" />
+</p>
 
 ---
 
@@ -158,6 +152,12 @@ Customer / Business Owner
             ├── Email Services
             └── GeoNames Integration
 ```
+
+### Database Architecture
+
+The following diagram illustrates the core domain model and relationships that support Prenvia.me's multi-tenant architecture.
+
+<p align="center"> <img src="docs/screenshots/database-architecture.png" width="90%" alt="Database Architecture"> </p>
 
 Prenvia.me follows a multi-tenant SaaS architecture where each business operates within its own isolated environment.
 
