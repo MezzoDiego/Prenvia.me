@@ -180,7 +180,7 @@ The project was developed through several phases:
 
 1. Product idea and business analysis
 2. System architecture and domain modeling
-3. UX/UI design and user flows
+3. UI/UX design and user flows
 4. Backend development with Spring Boot
 5. Frontend development with Angular
 6. Multi-tenant implementation
